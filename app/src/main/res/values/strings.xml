@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">简易通讯录页面</string>
+
+    <string name="add_contact">添加联系人</string>
+    <string name="update_contact">更新联系人</string>
+    <string name="edit_contact">编辑联系人</string>
+    <string name="delete_contact">删除联系人</string>
+
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="save">保存</string>
+
+    <string name="name_label">姓名</string>
+    <string name="phone_label">电话</string>
+    <string name="address_label">地址</string>
+    <string name="phone_hint">请输入电话号码</string>
+    <string name="name_hint">请输入姓名</string>
+    <string name="address_hint">请输入地址</string>
+
+</resources>
